@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/E2019/Window1.xaml) (VB: [Window1.xaml](./VB/E2019/Window1.xaml))
+* **[Window1.xaml.cs](./CS/E2019/Window1.xaml.cs) (VB: [Window1.xaml](./VB/E2019/Window1.xaml))**
+<!-- default file list end -->
 # How to customize automatically generated columns
 
 
